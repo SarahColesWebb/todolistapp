@@ -1,0 +1,80 @@
+#banner {
+  padding-left: 200px;
+  padding-right: 400px;
+  background-color: #001f3f;
+  height: 475px;
+}
+body h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  padding-top: 120px;
+  font-size: 70px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #7FDBFF;
+  text-align: left;
+}
+
+body p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #7FDBFF;
+  text-align: left;
+
+}
+
+.container{
+  margin-top: -150px;
+  height: 700px;
+  background-color: white;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+form {
+  padding-top: 50px;
+  padding-left: 70px;
+  width: 1500px;
+  padding-bottom: 45px;
+}
+
+
+button {
+  font-family: 'Open Sans', sans-serif !important;
+  color: #7FDBFF;
+  background-color: #001f3f;
+  padding: 6px 30px -5px 30px !important;
+  border-radius: 6px !important;
+}
+
+hr {
+  background-color: #7FDBFF;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.done {
+  text-decoration: line-through;
+  color: #E5649E;
+}
+
+ul {
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+  font-size: 20px;
+  color: black;
+  list-style-type: none;
+  padding-left: 70px;
+  padding-top: 35px;
+  text-decoration: overline wavy;
+  text-decoration-color: #7FDBFF;
+  line-height: 50px;
+}
+
+li {
+    padding-top: 10px;
+    margin: 0;
+}
+
+.delete {
+  color: white;
+}
